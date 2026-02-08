@@ -130,5 +130,3 @@ Together, these metrics ensure that VerifyAI delivers real business value—not 
 
 ---
 
-## 📂 Repository Structure
-
